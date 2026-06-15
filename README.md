@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesas-grabadas-en-la-corteza/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Promesas grabadas en la corteza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-grabadas-en-la-corteza/) |
+| **Get License** | [Official Music Licensing for Promesas grabadas en la corteza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-grabadas-en-la-corteza/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e3e4d85ced56dea224d5d4fa5d29a8dc5b0ffb9242d47b705cc07b2a8086189a` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

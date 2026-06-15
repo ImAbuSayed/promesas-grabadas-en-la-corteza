@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Promesas grabadas en la corteza
+
+This log tracks the cryptographic history and versioning for the song **Promesas grabadas en la corteza** (promesas-grabadas-en-la-corteza).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:52:58.201984 | `v1` | `e3e4d85ced56dea224d5d4fa5d29a8dc5b0ffb9242d47b705cc07b2a8086189a` | `69c83eab68265113233b41fa95a88c7b4b050e194913567864d6aca40a712663` | `2026-06-15_promesas-grabadas-en-la-corteza-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
