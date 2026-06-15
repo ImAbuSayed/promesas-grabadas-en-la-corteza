@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesas-grabadas-en-la-corteza/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Promesas grabadas en la corteza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-grabadas-en-la-corteza/) |
+| **Get License** | [Commercial Licensing for Promesas grabadas en la corteza](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-grabadas-en-la-corteza/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, esta noche nos vamos de aquí
+> Tú y yo por las calles buscando el zenith
+> Tu mirada me dice que quieres jugar
+> I know you want it, no lo vas a negar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
